@@ -1,7 +1,7 @@
-.menu-item{
+.menu__item{
     list-style: none; /* Tira os marcadores dos itens de listas */
 }
 
-.menu-item{
+.menu__item{
     margin-right: 0;
 }

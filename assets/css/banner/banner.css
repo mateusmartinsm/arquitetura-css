@@ -1,0 +1,3 @@
+.banner{
+    position: relative; /* Indica que as classes filhas serão relativas à posição da classe banner */
+}
